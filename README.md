@@ -75,3 +75,11 @@ Delete a branch:
 git rm [file]  
 
 This command deletes the file from your working directory and stages the deletion.
+
+git show [commit]  
+
+This command shows the metadata and content changes of the specified commit.
+
+git stash save  
+
+This command temporarily stores all the modified tracked files.
