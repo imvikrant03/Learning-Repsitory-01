@@ -71,3 +71,7 @@ Delete a branch:
 	git branch -d <name of the branch> - this deletes it locally!!!
 	git branch -a - check the repo branches 
 	git push origin --delete <name of the branch> - this deletes it from the repo!
+
+git rm [file]  
+
+This command deletes the file from your working directory and stages the deletion.
